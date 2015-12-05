@@ -1,0 +1,141 @@
+.version.index /* version checker */
+{
+	color: #00000C;
+	background-color: #1B0938;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #0071BC;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0071BC),color-stop(100%, #29ABE2));
+	background: -webkit-linear-gradient(top,#0071BC ,#29ABE2 100%);
+	background: linear-gradient(to bottom,#0071BC ,#29ABE2 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0071BC, endColorstr=#FF29ABE2, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0071BC', endColorstr='#FF29ABE2', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 424px;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0071BC),color-stop(100%, #29ABE2));
+	background: -webkit-linear-gradient(top,#0071BC ,#29ABE2 100%);
+	background: linear-gradient(to bottom,#0071BC ,#29ABE2 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0071BC, endColorstr=#FF29ABE2, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0071BC', endColorstr='#FF29ABE2', GradientType=0)";
+	border-style: none;
+	border-color: #000000;
+	padding-top: 75px;
+	padding-bottom: 71px;
+}
+
+#u234-4
+{
+	z-index: 7;
+	min-height: 41px;
+	border-color: #FF00FF;
+	background-color: transparent;
+	text-align: center;
+	font-size: 34px;
+	color: #CEECFE;
+	line-height: 41px;
+	font-family: arizonia, cursive;
+	font-weight: 400;
+}
+
+#u234-4-bw
+{
+	z-index: 7;
+	min-height: 41px;
+}
+
+#u231
+{
+	z-index: 2;
+	min-height: 249px;
+}
+
+#u231-bw
+{
+	z-index: 2;
+	min-height: 249px;
+	margin-top: 21px;
+}
+
+#u233-4
+{
+	z-index: 3;
+	min-height: 11px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 44px;
+	color: #CEECFF;
+	line-height: 53px;
+	font-family: atomic-age, sans-serif;
+	font-weight: 400;
+}
+
+#u233-4-bw
+{
+	z-index: 3;
+	min-height: 11px;
+	margin-top: 6px;
+}
+
+#u235-4
+{
+	z-index: 11;
+	min-height: 28px;
+	background-color: transparent;
+	text-align: center;
+	font-size: 16px;
+	color: #CEECFE;
+	line-height: 19px;
+	font-family: arizonia, cursive;
+	font-weight: 400;
+}
+
+#u235-4-bw
+{
+	z-index: 11;
+	min-height: 28px;
+	margin-top: 26px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,29 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hookbyte.com" resolutions="1x" timestamp="1449317377496">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3772312184" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 243x306.svg" crc="4135678080" ref="phone>index:tablet>index:index"/>
+    <file name="pasted svg 243x306_poster_.png" crc="4086500716" ref="phone>index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="105378354" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4192438714" seo="true" mt="1449317345058" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="203098424" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3824402904" seo="true" mt="1449317285558" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="497768941" seo="true" mt="1449316843488" redirect="true"/>
+</manifest>
